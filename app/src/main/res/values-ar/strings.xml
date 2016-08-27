@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="new_game">لعبة جديدة</string>
+    <string name="game_finished">انتهت اللعبة</string>
+    <string name="already_pressed">لقد قمت باختيار هذا المكان سابقًا </string>
+    <string name="first_player_won">اللاعب الأول X فاز</string>
+    <string name="second_player_won">اللاعب الثاني O فاز  </string>
+</resources>

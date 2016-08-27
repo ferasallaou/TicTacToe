@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="new_game">Yeniden Başla</string>
+    <string name="game_finished">Oyun Bitti</string>
+    <string name="already_pressed">Burda Bastın kanka :) </string>
+    <string name="first_player_won">Birinci Oyuncu \"X\" Kazandı </string>
+    <string name="second_player_won">Ikinci Oyuncu \"O\" Kazandı  </string>
+</resources>
